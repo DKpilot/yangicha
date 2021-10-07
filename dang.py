@@ -7,3 +7,6 @@ print(laptop[-])
 
 print("Bugun bayram")
 
+for i in laptop:
+    print(i)
+
