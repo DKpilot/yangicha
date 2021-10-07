@@ -12,4 +12,7 @@ for i in laptop:
 
 while True:
     print("nimagaaaaaaaaaaaaaaap")
+    exit
+
+bir = "Ikkki ga bo'linadigan sonlar bu 456879"
     
