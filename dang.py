@@ -4,3 +4,6 @@
 laptop = [True, False, 12, 12.2, "birnimalar"]
 
 print(laptop[-])
+
+print("Bugun bayram")
+
