@@ -10,3 +10,6 @@ print("Bugun bayram")
 for i in laptop:
     print(i)
 
+while True:
+    print("nimagaaaaaaaaaaaaaaap")
+    
